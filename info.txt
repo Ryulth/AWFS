@@ -1,0 +1,6 @@
+things interact endpoint
+az6ybpcj57i7z-ats.iot.ap-northeast-2.amazonaws.com
+resource arn
+arn:aws:iot:ap-northeast-2:762093804949:topic/replaceWithATopic
+
+메모-mqtt 는 point to point 가 아니기 떄문에 url 로 리스폰스를 받야아한다.
